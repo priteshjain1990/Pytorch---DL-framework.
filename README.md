@@ -6,3 +6,6 @@
 - Used the batch size of 64 images.
 - Tensors craeted using torch python library are liner with the numpy aarays as they both can point to the same memory location.
 - The model created gives an cummulative accuarcy of 85% when inference on gthe 10000 test images is done.
+
+  <img width="640" alt="image" src="https://github.com/priteshjain1990/Pytorch---DL-framework./assets/88549036/329ec349-c13d-4fea-9042-28ec3bbe04a9">
+
